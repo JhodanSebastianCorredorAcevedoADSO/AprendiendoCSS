@@ -1,0 +1,31 @@
+h1{
+    color: #AE34E7;
+}
+
+.titulo_h2{
+    color: #00a2ff;
+}
+
+#id-element-for-modify{
+    color: #EA1010;
+}
+
+[rancio="sii"]{
+    color: #B8B4B7;
+}
+
+h2 p{
+    color: #8155ce;
+}
+
+.h2-color{
+    color: #40bd21;
+}
+
+.h2-color b span {
+    color: #00BCD6;
+}
+
+.b-color b:hover{
+    color: brown;
+}
