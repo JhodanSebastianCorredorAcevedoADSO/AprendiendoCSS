@@ -1,31 +1,23 @@
+.cambio{
+    color: blue;
+}
+
 h1{
-    color: #AE34E7;
+    color: aqua !important;
 }
 
-.titulo_h2{
-    color: #00a2ff;
+h2{
+    color: chartreuse;
 }
 
-#id-element-for-modify{
-    color: #EA1010;
-}
-
-[rancio="sii"]{
-    color: #B8B4B7;
-}
-
-h2 p{
-    color: #8155ce;
-}
-
-.h2-color{
-    color: #40bd21;
-}
-
-.h2-color b span {
-    color: #00BCD6;
-}
-
-.b-color b:hover{
+.cambio2{
     color: brown;
+}
+
+[ranciobajo="todo"]{
+    color: chocolate
+}
+
+#todo{
+    color: yellow;
 }
