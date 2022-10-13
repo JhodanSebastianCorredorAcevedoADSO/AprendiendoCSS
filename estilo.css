@@ -1,23 +1,11 @@
-.cambio{
-    color: blue;
+.form__input--active{
+    color: rgb(248, 120, 0);
 }
 
-h1{
-    color: aqua !important;
+.forma__input--active{
+    color: rgb(0, 255, 170);
 }
 
-h2{
-    color: chartreuse;
-}
-
-.cambio2{
+.contacto__p-h2--active{
     color: brown;
-}
-
-[ranciobajo="todo"]{
-    color: chocolate
-}
-
-#todo{
-    color: yellow;
 }
