@@ -5,6 +5,10 @@
 
 .contact-form{
     font-size: 25px;
-    background-color: #000;
-    width: 50vw;
+}
+
+.contact-form__h2{
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
 }
