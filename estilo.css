@@ -1,32 +1,16 @@
 *{
-    font-family: 'Abril Fatface', cursive;
+    font-family: "Lobster", cursive;
+    font-weight: 100;
+    font-size: 30px;
 }
 
-.contact-form{
-    font-size: 25px;
+h2{
+    display: inline;
+    display: 400px;
+    width: 190px; 
 }
 
-.contact-form__h2{
-    font-size: 2em;
-    color: blue;
+p{
+    height: 400px;
+    width: 190px;
 }
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
