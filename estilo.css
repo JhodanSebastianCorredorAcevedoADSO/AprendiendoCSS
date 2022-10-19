@@ -10,5 +10,7 @@ h2 {
     padding: 100px;
     box-sizing: border-box;
     text-align: center;
-    margin: 10px;
+    margin: 20px 20px;
+    border-radius: 10em;
+    border: 10px ridge green;
 }
