@@ -12,17 +12,23 @@ div{
 }
 
 .caja1{
-    background-color: rgb(255, 153, 0);
+    background-color: yellow;
 }
 
 .caja2{
-    background-color: rgb(91, 119, 95);
+    background-color: rgb(0, 110, 255);
+    position: relative;
+    left: 50px;
 }
 
 .caja3{
-    background-color: rgb(128, 24, 63);
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    top: -50px;
 }
 
 .caja4{
-    background-color: rgb(101, 77, 233);
+    background-color: rgb(0, 255, 34);
+    position: relative;
+    right: 50px;
 }
