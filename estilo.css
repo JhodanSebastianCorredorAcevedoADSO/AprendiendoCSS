@@ -6,13 +6,13 @@
 
 .caja{
     margin: 25px;
-    width: 800px;
-    height: 800px;
+    width: 400px;
+    height: 400px;
 }
 
 .caja img{
     height: 100%;
     width: 100%;
     border: 2px solid red;
-    object-fit: none;
+    object-position: -4em;
 }
