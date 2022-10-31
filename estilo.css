@@ -4,13 +4,28 @@
     font-size: 30px;
 }
 
-.cont div{
-    width: 500px;
-    border: 2px solid green;
+form{
+    margin: 100px auto;
+    display: block;
+    background: #555;
+    padding: 100px 30px;
+    width: 90%;
+    text-align: center;
+
 }
 
-.cont{
-    float: left;
-    width: 300px;
-    margin-right: 18px;
+p{
+    padding: 6px;
+    width: 100%;
+}
+
+p::before{
+    content: "me mate";
+    color: #fff;
+}
+
+p::after{
+    content: "aqui y ahora";
+    color: aqua;
+    background: #614;
 }
