@@ -4,28 +4,13 @@
     font-size: 30px;
 }
 
-form{
-    margin: 100px auto;
+a:link{
+    color: red;
+    background-color: blue;
     display: block;
-    background: #555;
-    padding: 100px 30px;
-    width: 90%;
-    text-align: center;
-
 }
 
-p{
-    padding: 6px;
-    width: 100%;
-}
-
-p::before{
-    content: "me mate";
-    color: #fff;
-}
-
-p::after{
-    content: "aqui y ahora";
-    color: aqua;
-    background: #614;
+a:visited {
+    color: violet;
+    background-color: black;
 }
