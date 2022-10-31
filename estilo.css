@@ -4,9 +4,13 @@
     font-size: 30px;
 }
 
-.caja-fixed{
-    background: red;
-    position: sticky;
-    opacity: 0.3;
-    top: 0;
+div{
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    border: 10px solid red;
+    background-color: aqua;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
 }
